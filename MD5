@@ -1,0 +1,13 @@
+9b5f9429e938a49d83f2ae6c6290eb26 *DESCRIPTION
+f5b4a4fba9a6acb5dd8052678eedbdc5 *NAMESPACE
+ec11faad676b750d7e3944bf4049020f *NEWS.md
+c4ecaf5a07a4816672cf60933b81476c *R/fetch_len.R
+a23087a05cb07f604d67990a4d634254 *R/sp_utils.R
+8c71e2df2e881692ce475be75de6adee *R/wave_energy.R
+68c7345569cf4a5ce3f5a27281170c0c *R/waver.R
+9efd7199efcc133522eb673cc18d87d3 *README.md
+b0ce4a7b514e18bc01c2fb4e9a2ab3c2 *man/fetch_len.Rd
+358e6afc2ded93e11d8999c4bdeb3f72 *man/fetch_len_multi.Rd
+e07fd9a321749bf1f5deb123aa9aa779 *man/wave_energy.Rd
+d30bf2c511a971bc1c1b0e21e11387b8 *tests/testthat.R
+bbecabab94cb5074c6d06781b6abd9ed *tests/testthat/test_fetch_len.R
